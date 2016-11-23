@@ -4,6 +4,8 @@ FPA – the four-point aligner
 
 **Compilation**
 
+    $ git clone https://github.com/ariloytynoja/fpa.git
+    $ cd fpa/
     $ make
 
 **Usage**
