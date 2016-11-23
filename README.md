@@ -30,7 +30,7 @@ are:
 
 Third, interesting cases are visualised.
 
-     ./fpa --pair homo_sapiens.12.74743744.74973891.fas --print-file one_hit.csv 
+    $ ./fpa --pair homo_sapiens.12.74743744.74973891.fas --print-file one_hit.csv 
 
     chr12:74744825-74744838
 
